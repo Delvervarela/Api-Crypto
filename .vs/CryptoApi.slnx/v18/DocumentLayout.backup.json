@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\models\\cryptopriceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\models\\cryptopriceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\pages\\cryptos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\pages\\cryptos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\services\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\services\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\contracts\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\contracts\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoclient\\cryptoclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3F6519A-6DD1-1AAA-9920-42FCA435331F}|CryptoClient\\CryptoClient.csproj|solutionrelative:cryptoclient\\cryptoclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\infraestructure\\inmemorycryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\infraestructure\\inmemorycryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\domain\\icryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\domain\\icryptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\domain\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\domain\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\application\\icryptopriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\application\\icryptopriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\application\\getcryptopricesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\application\\getcryptopricesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\application\\cryptopricesupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\application\\cryptopricesupdatedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\application\\cryptopriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\application\\cryptopriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\application\\cryptopriceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\application\\cryptopriceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\application\\cryptomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\application\\cryptomappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|c:\\users\\300049\\desktop\\visualstudio\\cryptoapi\\cryptoapi\\api\\services\\pricebroadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D765E5B-6D67-22A2-5617-0307B05E67F3}|CryptoApi\\CryptoApi.csproj|solutionrelative:cryptoapi\\api\\services\\pricebroadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\300049\\Downloads\\CryptoApiDotNet10\\CryptoApi\\CryptoApi.slnLaunch.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CryptoClient\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CryptoClient\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T20:32:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "CryptoClient\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\Weather.razor",
+              "RelativeToolTip": "CryptoClient\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T20:32:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CryptoClient\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\Home.razor",
+              "RelativeToolTip": "CryptoClient\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T20:32:10.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "CryptoClient\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\NotFound.razor",
+              "RelativeToolTip": "CryptoClient\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T20:32:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoClient\\Program.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Program.cs",
+              "RelativeToolTip": "CryptoClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:31:41.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\_Imports.razor",
+              "RelativeDocumentMoniker": "CryptoClient\\_Imports.razor",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\_Imports.razor",
+              "RelativeToolTip": "CryptoClient\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T20:31:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Services\\CryptoService.cs",
+              "RelativeDocumentMoniker": "CryptoClient\\Services\\CryptoService.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Services\\CryptoService.cs",
+              "RelativeToolTip": "CryptoClient\\Services\\CryptoService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA7wFIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:31:23.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cryptos.razor",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\Cryptos.razor",
+              "RelativeDocumentMoniker": "CryptoClient\\Pages\\Cryptos.razor",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Pages\\Cryptos.razor",
+              "RelativeToolTip": "CryptoClient\\Pages\\Cryptos.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T20:30:38.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CryptoPriceItem.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Models\\CryptoPriceItem.cs",
+              "RelativeDocumentMoniker": "CryptoClient\\Models\\CryptoPriceItem.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Models\\CryptoPriceItem.cs",
+              "RelativeToolTip": "CryptoClient\\Models\\CryptoPriceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:30:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICryptoService.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Contracts\\ICryptoService.cs",
+              "RelativeDocumentMoniker": "CryptoClient\\Contracts\\ICryptoService.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Contracts\\ICryptoService.cs",
+              "RelativeToolTip": "CryptoClient\\Contracts\\ICryptoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:30:26.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "CryptoClient\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "CryptoClient\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-09T20:30:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CryptoClient",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\CryptoClient.csproj",
+              "RelativeDocumentMoniker": "CryptoClient\\CryptoClient.csproj",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoClient\\CryptoClient.csproj",
+              "RelativeToolTip": "CryptoClient\\CryptoClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T20:30:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "test.html",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\test.html",
+              "RelativeDocumentMoniker": "CryptoApi\\test.html",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\test.html",
+              "RelativeToolTip": "CryptoApi\\test.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-09T20:30:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Program.cs",
+              "RelativeToolTip": "CryptoApi\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:29:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InMemoryCryptoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Infraestructure\\InMemoryCryptoRepository.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Infraestructure\\InMemoryCryptoRepository.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Infraestructure\\InMemoryCryptoRepository.cs",
+              "RelativeToolTip": "CryptoApi\\Infraestructure\\InMemoryCryptoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:29:28.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICryptoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Domain\\ICryptoRepository.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Domain\\ICryptoRepository.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Domain\\ICryptoRepository.cs",
+              "RelativeToolTip": "CryptoApi\\Domain\\ICryptoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:29:19.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Domain\\Crypto.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Domain\\Crypto.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Domain\\Crypto.cs",
+              "RelativeToolTip": "CryptoApi\\Domain\\Crypto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:29:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CryptoController.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Controllers\\CryptoController.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Controllers\\CryptoController.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Controllers\\CryptoController.cs",
+              "RelativeToolTip": "CryptoApi\\Controllers\\CryptoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:55.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICryptoPriceService.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\ICryptoPriceService.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Application\\ICryptoPriceService.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\ICryptoPriceService.cs",
+              "RelativeToolTip": "CryptoApi\\Application\\ICryptoPriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:49.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetCryptoPricesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\GetCryptoPricesResponse.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Application\\GetCryptoPricesResponse.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\GetCryptoPricesResponse.cs",
+              "RelativeToolTip": "CryptoApi\\Application\\GetCryptoPricesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:46.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CryptoPricesUpdatedMessage.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoPricesUpdatedMessage.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Application\\CryptoPricesUpdatedMessage.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoPricesUpdatedMessage.cs",
+              "RelativeToolTip": "CryptoApi\\Application\\CryptoPricesUpdatedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CryptoPriceService.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoPriceService.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Application\\CryptoPriceService.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoPriceService.cs",
+              "RelativeToolTip": "CryptoApi\\Application\\CryptoPriceService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CryptoPriceItem.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoPriceItem.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Application\\CryptoPriceItem.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoPriceItem.cs",
+              "RelativeToolTip": "CryptoApi\\Application\\CryptoPriceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:16.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CryptoMappings.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoMappings.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Application\\CryptoMappings.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Application\\CryptoMappings.cs",
+              "RelativeToolTip": "CryptoApi\\Application\\CryptoMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:28:12.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PriceBroadcastService.cs",
+              "DocumentMoniker": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Api\\Services\\PriceBroadcastService.cs",
+              "RelativeDocumentMoniker": "CryptoApi\\Api\\Services\\PriceBroadcastService.cs",
+              "ToolTip": "C:\\Users\\300049\\Desktop\\VisualStudio\\CryptoApi\\CryptoApi\\Api\\Services\\PriceBroadcastService.cs",
+              "RelativeToolTip": "CryptoApi\\Api\\Services\\PriceBroadcastService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:27:38.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CryptoApi.slnLaunch.user",
+              "DocumentMoniker": "C:\\Users\\300049\\Downloads\\CryptoApiDotNet10\\CryptoApi\\CryptoApi.slnLaunch.user",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CryptoApiDotNet10\\CryptoApi\\CryptoApi.slnLaunch.user",
+              "ToolTip": "C:\\Users\\300049\\Downloads\\CryptoApiDotNet10\\CryptoApi\\CryptoApi.slnLaunch.user",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CryptoApiDotNet10\\CryptoApi\\CryptoApi.slnLaunch.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-11-09T20:19:57.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

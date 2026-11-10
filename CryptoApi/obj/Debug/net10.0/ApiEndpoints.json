@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CryptoApi.Controllers.CryptoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Crypto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CryptoApi.Application.GetCryptoPricesResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
